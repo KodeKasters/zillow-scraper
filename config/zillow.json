@@ -1,0 +1,69 @@
+{
+  "baseUrl": "https://www.zillow.com/homes/for_sale/?searchQueryState=",
+  "queryParams": {
+    "pagination": {},
+    "isMapVisible": true,
+    "mapBounds": {
+      "west": -84.72716915650045,
+      "east": -81.81991207642233,
+      "south": 42.279213918368704,
+      "north": 42.74285201966371
+    },
+    "customRegionId": "c61ee65875X1-CR1tvx3zyi1umkl_1a2x3p",
+    "savedSearchEnrollmentId": "X1-SSlk5vewsnp8n21000000000_7hp5x",
+    "filterState": {
+      "sort": {
+        "value": "mostrecentchange"
+      },
+      "price": {
+        "min": 200000,
+        "max": 370000
+      },
+      "beds": {
+        "min": 2,
+        "max": null
+      },
+      "baths": {
+        "min": 2,
+        "max": null
+      },
+      "tow": {
+        "value": false
+      },
+      "mf": {
+        "value": false
+      },
+      "con": {
+        "value": false
+      },
+      "land": {
+        "value": false
+      },
+      "ah": {
+        "value": true
+      },
+      "apa": {
+        "value": false
+      },
+      "manu": {
+        "value": false
+      },
+      "apco": {
+        "value": false
+      },
+      "gar": {
+        "value": true
+      },
+      "basf": {
+        "value": true
+      },
+      "basu": {
+        "value": true
+      },
+      "55plus": {
+        "value": "e"
+      }
+    },
+    "isListVisible": true
+  }
+}

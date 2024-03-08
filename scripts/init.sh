@@ -1,0 +1,1 @@
+pm2-runtime index.js --output ./out.log --error ./err.log
